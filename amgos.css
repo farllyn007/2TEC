@@ -1,0 +1,27 @@
+header{
+    background: #bbbbbb;
+    padding: 20px 0;
+}
+caixa{positivo: relative;
+widtn: 940px;
+margin: 0px;
+}
+
+nav{positivo:absolute;
+    right: 0;}
+
+nav;li{display: inline
+    magin:0 0 0 15;}
+nav a{text-transform: uppercase;
+    color: aquamarine;
+    font-weight:bold ;
+    font-size: 22px;
+    text-decoration: none;}
+    nav a:hover{
+
+            color: cyan;
+            text-decoration: ;
+            underzine;
+    }
+
+
